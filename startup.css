@@ -1,0 +1,46 @@
+body {
+	width: 100%;
+	height: 100%;
+	font-family: 'Barlow', sans-serif;
+	background: url(252612.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+h1 {
+	font-size: 3rem;
+	color: #ffdfc7;
+}
+
+hr {
+	border-color: purple;
+	border-width: 3px;
+	max-width: 65px;
+}
+
+.buffer {
+	height: 5rem;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-primary {
+	background-color: purple;
+	border-color: purple;
+}
+
+.btn-xl {
+	padding: 2rem 3rem;
+}
+
+.btn-success:hover {
+	background-color: purple;
+	border-color: purple;
+	border-width: 6px;
+}
